@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a09c4e5faa7ad9f45bf5513763095a11, type: 3}
+  m_Name: Scarcity Successfuly Finished
+  m_EditorClassIdentifier: 
+  Scenarios:
+  - ListOfTexts:
+    - Mom! We don't have to save that much money now, I basically make enough for
+      two now, we can-
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: 3f889114125f85049bcbe371131603ca, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Bibi
+    RightName: Megi
+  - ListOfTexts:
+    - I know sweetie, I know. But look at you, you're practically wasting away. Have
+      you eaten today? Have you gotten enough sleep?
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: 3f889114125f85049bcbe371131603ca, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Bibi
+    RightName: Megi
+  - ListOfTexts:
+    - Er, not exactly, I've been too busy with-
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: 3f889114125f85049bcbe371131603ca, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Bibi
+    RightName: Megi
+  - ListOfTexts:
+    - Eat and rest, honey. The work can wait. And take care of yourself. If there's
+      one lesson you learn from me, let it be this. Promise me you will.
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: 3f889114125f85049bcbe371131603ca, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Bibi
+    RightName: Megi
+  - ListOfTexts:
+    - Promise.
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: 3f889114125f85049bcbe371131603ca, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Bibi
+    RightName: Megi

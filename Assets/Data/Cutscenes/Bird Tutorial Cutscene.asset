@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a09c4e5faa7ad9f45bf5513763095a11, type: 3}
+  m_Name: Bird Tutorial Cutscene
+  m_EditorClassIdentifier: 
+  Scenarios:
+  - ListOfTexts:
+    - It appears you are back where you started
+    - What if chasing something isn't working out anymore? What will happen if you
+      allow it to come to you instead?
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: 6df9873f50247744a88e43a2d76005fd, type: 3}
+    RightImage: {fileID: 0}
+    LeftName: ...
+    RightName: 
+  - ListOfTexts:
+    - Megi. Ah. I missed you, girl.
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 897b24b33c66db44e97dd54477a853d4, type: 3}
+    LeftName: Megi
+    RightName: Child
+  - ListOfTexts:
+    - I missed you too. Megi.
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 897b24b33c66db44e97dd54477a853d4, type: 3}
+    LeftName: Megi
+    RightName: Child
+  - ListOfTexts:
+    - (chuckles) What are you talking about, silly? You are Megi and I am...
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 897b24b33c66db44e97dd54477a853d4, type: 3}
+    LeftName: Megi
+    RightName: Child
+  - ListOfTexts:
+    - Oh.You're me, aren't you?
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Pigeon Megi
+    RightName: Megi
+  - ListOfTexts:
+    - ...
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Pigeon Megi
+    RightName: Megi
+  - ListOfTexts:
+    - I see. Alright. What else do I need to know?
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Pigeon Megi
+    RightName: Megi

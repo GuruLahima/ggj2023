@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Scene.unity
+    guid: 1e3c6e981590fa2449e96446dbde72e7
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 3c2f4fb88dd53414eaf27aa227c29b38
+  - enabled: 1
+    path: Assets/Scenes/Bird Scene.unity
+    guid: d3a5486e4c817974bb59eebebebcd53b
+  - enabled: 1
+    path: Assets/Scenes/First Boss.unity
+    guid: 00256dba14211794d820ac6b9c45d7f1
+  - enabled: 1
+    path: Assets/Scenes/First Boss part 2.unity
+    guid: 08813e84ab7ff8e489c424f0eb27dc45
+  - enabled: 1
+    path: Assets/Scenes/Grandparent Scene.unity
+    guid: 3afd81ef4c1794746a8eeda686a6168f
   m_configObjects: {}

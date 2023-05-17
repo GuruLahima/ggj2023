@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a09c4e5faa7ad9f45bf5513763095a11, type: 3}
+  m_Name: Scarcity Phase 1 Pause Game Part 4
+  m_EditorClassIdentifier: 
+  Scenarios:
+  - ListOfTexts:
+    - Sorry sweetie, we can't get that toy right now, the water bill was too high
+      this month.
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: 3f889114125f85049bcbe371131603ca, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Bibi
+    RightName: Megi
+    talkingInterval: 10
+    waitForInput: 0
+  - ListOfTexts:
+    - What does that have to do with anything?
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: 3f889114125f85049bcbe371131603ca, type: 3}
+    RightImage: {fileID: 21300000, guid: 897b24b33c66db44e97dd54477a853d4, type: 3}
+    LeftName: Bibi
+    RightName: Megi
+    talkingInterval: 6
+    waitForInput: 0
+  - ListOfTexts:
+    - Do you see it now?
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Pigeon Megi
+    RightName: Megi
+    talkingInterval: 3.5
+    waitForInput: 0
+  - ListOfTexts:
+    - ...
+    - I need to make her snap out of it.
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Pigeon Megi
+    RightName: Megi
+    talkingInterval: 6
+    waitForInput: 0
+  - ListOfTexts:
+    - You cannot save those who do not wish to be saved.
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Pigeon Megi
+    RightName: Megi
+    talkingInterval: 6
+    waitForInput: 0
+  - ListOfTexts:
+    - Yes yes we only save ourselves. But I can't even do that.
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Pigeon Megi
+    RightName: Megi
+    talkingInterval: 8
+    waitForInput: 0
+  - ListOfTexts:
+    - You can.
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Pigeon Megi
+    RightName: Megi
+    talkingInterval: 2
+    waitForInput: 0
+  - ListOfTexts:
+    - How??
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Pigeon Megi
+    RightName: Megi
+    talkingInterval: 3
+    waitForInput: 0
+  - ListOfTexts:
+    - 
+    Allignment: 0
+    LeftImage: {fileID: 0}
+    RightImage: {fileID: 0}
+    LeftName: 
+    RightName: 
+    talkingInterval: 4
+    waitForInput: 1

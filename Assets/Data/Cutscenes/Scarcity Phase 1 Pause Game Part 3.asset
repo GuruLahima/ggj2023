@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a09c4e5faa7ad9f45bf5513763095a11, type: 3}
+  m_Name: Scarcity Phase 1 Pause Game Part 3
+  m_EditorClassIdentifier: 
+  Scenarios:
+  - ListOfTexts:
+    - Will we have enough to pay back Gorda for the groceries this month?
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: 3f889114125f85049bcbe371131603ca, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Bibi
+    RightName: Megi
+    talkingInterval: 7
+    waitForInput: 0
+  - ListOfTexts:
+    - What the. Mom?
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: 3f889114125f85049bcbe371131603ca, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Bibi
+    RightName: Megi
+    talkingInterval: 3
+    waitForInput: 0
+  - ListOfTexts:
+    - ...and the electricity bill this month. Maybe we can hand wash some things,
+      no need to turn on the washing machine so often.
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: 3f889114125f85049bcbe371131603ca, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Bibi
+    RightName: Megi
+    talkingInterval: 11
+    waitForInput: 0
+  - ListOfTexts:
+    - She seems trapped.
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Pigeon Megi
+    RightName: Megi
+    talkingInterval: 4
+    waitForInput: 0
+  - ListOfTexts:
+    - Mom! I make six figures now, we have enough for Aunt Gorda, we can use all
+      the appliances now, it's---
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Pigeon Megi
+    RightName: Megi
+    talkingInterval: 11
+    waitForInput: 0
+  - ListOfTexts:
+    - 
+    Allignment: 0
+    LeftImage: {fileID: 0}
+    RightImage: {fileID: 0}
+    LeftName: 
+    RightName: 
+    talkingInterval: 15
+    waitForInput: 1

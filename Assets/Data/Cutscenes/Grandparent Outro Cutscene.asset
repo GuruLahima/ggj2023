@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a09c4e5faa7ad9f45bf5513763095a11, type: 3}
+  m_Name: Grandparent Outro Cutscene
+  m_EditorClassIdentifier: 
+  Scenarios:
+  - ListOfTexts:
+    - That's what Grandpa remembered? He would always tell us how he masterfully
+      moved through the traps and rooms and this was...
+    Allignment: 1
+    LeftImage: {fileID: 0}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: 
+    RightName: Megi
+  - ListOfTexts:
+    - Scary?
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Pigeon Megi
+    RightName: Megi
+  - ListOfTexts:
+    - Haunting.
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Pigeon Megi
+    RightName: Megi
+  - ListOfTexts:
+    - In every hero lies a shadow.
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Pigeon Megi
+    RightName: Megi
+  - ListOfTexts:
+    - I'm sorry I dissapointed you, my little sparrow. I am sorry I am not the man
+      you thought I was.
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: 7ea465ebbc669d04091af8e4d0242a9c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Spiro
+    RightName: Megi
+  - ListOfTexts:
+    - I never thought that, Grandpa. You've been a hero to me, always. Even now.
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: 7ea465ebbc669d04091af8e4d0242a9c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Spiro
+    RightName: Megi
+  - ListOfTexts:
+    - 'Then I leave you with this: even your failures make you who you are. And who
+      you are is extraordinary. Remember that.'
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: 7ea465ebbc669d04091af8e4d0242a9c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Spiro
+    RightName: Megi
+  - ListOfTexts:
+    - I will.
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: 7ea465ebbc669d04091af8e4d0242a9c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Spiro
+    RightName: Megi

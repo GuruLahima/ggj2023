@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a09c4e5faa7ad9f45bf5513763095a11, type: 3}
+  m_Name: Grandparent Intro Cutscene
+  m_EditorClassIdentifier: 
+  Scenarios:
+  - ListOfTexts:
+    - I don't recognize this place.
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Pigeon Megi
+    RightName: Megi
+  - ListOfTexts:
+    - Look closer. Feel closer.
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Pigeon Megi
+    RightName: Megi
+  - ListOfTexts:
+    - Hmm.
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Pigeon Megi
+    RightName: Megi
+  - ListOfTexts:
+    - In here. I know the way!
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: 7ea465ebbc669d04091af8e4d0242a9c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Spiro
+    RightName: Megi
+  - ListOfTexts:
+    - Grandpa? This is Grandpa's house? But it looks so... beaten up.
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: 7ea465ebbc669d04091af8e4d0242a9c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Spiro
+    RightName: Megi
+  - ListOfTexts:
+    - I hope the old traps still work...
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: 7ea465ebbc669d04091af8e4d0242a9c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Spiro
+    RightName: Megi
+  - ListOfTexts:
+    - Wait, I know this one, I think Grandpa told it once.
+    Allignment: 1
+    LeftImage: {fileID: 21300000, guid: 7ea465ebbc669d04091af8e4d0242a9c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Spiro
+    RightName: Megi
+  - ListOfTexts:
+    - He did, but not all of it.
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: ec4b6d9e7feddab4f9ede6a50c0ef81c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Pigeon Megi
+    RightName: Megi
+  - ListOfTexts:
+    - Quick hide!
+    Allignment: 0
+    LeftImage: {fileID: 21300000, guid: 7ea465ebbc669d04091af8e4d0242a9c, type: 3}
+    RightImage: {fileID: 21300000, guid: 2b374921caaba32428a2c29e6c19430d, type: 3}
+    LeftName: Spiro
+    RightName: Megi
